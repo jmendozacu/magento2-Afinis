@@ -1,0 +1,24 @@
+Started at [2019/10/03 21:36]
+Config file is C:\xampp\htdocs\magento2\ftp-deployment\deployment.php
+
+Deploying my site
+Note: connection is not encrypted
+Live mode
+Connecting to server
+Remote .htdeployment file not found
+Scanning files in C:\xampp\htdocs\magento2\ftp-deployment
+Ignoring ./composer.json                
+Ignoring ./composer.lock                
+Not included ./deployment               
+Not included ./deployment.log           
+Ignoring ./deployment.php               
+Not included ./deployment.sample.ini    
+Not included ./deployment.sample.php    
+Not included ./license.md               
+Not included ./readme.md                
+Not included ./src                      
+Not included ./temp                     
+Not included ./vendor                   
+Already synchronized.
+
+Finished at [2019/10/03 21:36] (in 0 seconds)

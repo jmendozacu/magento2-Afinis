@@ -1,0 +1,66 @@
+[
+    {
+        "name": "nette/tester",
+        "version": "v1.7.2",
+        "version_normalized": "1.7.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/nette/tester.git",
+            "reference": "c81e276f9809143312c5be51952b1316901b8403"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/nette/tester/zipball/c81e276f9809143312c5be51952b1316901b8403",
+            "reference": "c81e276f9809143312c5be51952b1316901b8403",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2018-06-01T09:33:19+00:00",
+        "bin": [
+            "src/tester"
+        ],
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.7-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "src/"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "BSD-3-Clause",
+            "GPL-2.0",
+            "GPL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "David Grudl",
+                "homepage": "https://davidgrudl.com"
+            },
+            {
+                "name": "Nette Community",
+                "homepage": "https://nette.org/contributors"
+            }
+        ],
+        "description": "Nette Tester: enjoyable unit testing in PHP with code coverage reporter. ????",
+        "homepage": "https://tester.nette.org",
+        "keywords": [
+            "Xdebug",
+            "assertions",
+            "clover",
+            "code coverage",
+            "nette",
+            "phpdbg",
+            "phpunit",
+            "testing",
+            "unit"
+        ]
+    }
+]
